@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #e07fd9 0%, #fad0c4 100%);
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.project-card {
+  border: 1px solid #090808;
+  padding: 20px;
+  margin-bottom: 20px;
+}
